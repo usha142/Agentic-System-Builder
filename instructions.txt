@@ -1,0 +1,22 @@
+Create new environment
+py -m venv agents
+If it fails
+python -m venv agents
+if venv is not there
+pip install venv
+
+Activate the environment
+agents\Scripts\activate
+
+install necessary packages
+pip install -U langchain-openrouter langchain-core langgraph streamlit pandas
+Run the project
+Keep all the files in the same folder where the env is created
+streamlit run agents.py
+If it fails, run
+python -m streamlit run agents.py
+
+Give the API Key from Gemini, create or use existing agentic system, and start prompting!!!
+
+Deactivate the environment
+agents\Scripts\deactivate

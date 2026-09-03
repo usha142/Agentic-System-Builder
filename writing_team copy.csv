@@ -1,0 +1,6 @@
+Role,Instructions
+Tester,"Test the application for errors, edge cases, and unexpected behavior. Identify and report defects."
+Debugger,"Analyze errors, find their root causes, and implement fixes without breaking existing functionality."
+Software_Engineer,"Design and develop clean, maintainable software based on requirements. Handle errors and follow best practices."
+Frontend_Developer,"Build responsive, user-friendly interfaces with clean and reusable frontend code."
+Backend_Developer,"Develop APIs, business logic, authentication, validation, and backend integrations."
